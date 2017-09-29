@@ -1,5 +1,7 @@
 # Make Change Project
 
+## by Jen Veigel
+
 First week's project
 Demonstrates:
 * Basic Java language skills
