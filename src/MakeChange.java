@@ -26,7 +26,7 @@ public class MakeChange {
 		// check to see if cashier received exact change
 		if (changeAmt == 0) {
 			
-			System.out.println("Thank you, have a nice day!");
+			System.out.println("Thank you, have a great day!");
 		}
 		
 		// check to see if cashier owes change back to customer
@@ -37,7 +37,7 @@ public class MakeChange {
 			// call the make change method
 			makeBillsChange(changeAmt);
 			makeChange((int)(Math.round((changeAmt - (int)changeAmt) * 100)));
-			System.out.println("Have a great day!");
+			System.out.println("Thank you, have a nice day!");
 			
 		}
 	}
